@@ -1,0 +1,3 @@
+```text name=requirements.txt
+# Для р  зработки
+pyinstaller>=6.0.0
